@@ -5,6 +5,7 @@ pip install pygame
 *
 
 Controls:
+
 Up_Key = Jump,
 
 Down_Key = Slide
