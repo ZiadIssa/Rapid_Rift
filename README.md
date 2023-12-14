@@ -2,9 +2,9 @@
 
 This code requires pygame library to work properly
 
-*
+-----------------
 pip install pygame
-*
+-----------------
 
 
 Controls:
